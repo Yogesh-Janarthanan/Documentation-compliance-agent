@@ -1,0 +1,29 @@
+{"timestamp": "2026-06-18T06:09:12.916670+00:00", "event_type": "info", "message": "Starting login flow"}
+{"timestamp": "2026-06-18T06:09:25.163007+00:00", "event_type": "debug", "message": "Clickable elements found on landing page: ['Getting Started', 'Patient Needs Waiver (PNW) Request', 'Program Flexibility (PF) Request', 'Workforce Shortage Waiver (WSW) Request', 'Privacy Policy', 'Terms of Service']"}
+{"timestamp": "2026-06-18T06:09:25.236620+00:00", "event_type": "warning", "message": "No 'Sign In' trigger found on landing page; will still attempt to locate a login form directly."}
+{"timestamp": "2026-06-18T06:09:26.314080+00:00", "event_type": "warning", "message": "Could not locate email/password fields on landing page. App may already be logged in, or login form is structured unexpectedly."}
+{"timestamp": "2026-06-18T06:09:26.314080+00:00", "event_type": "info", "message": "Login flow completed. Current URL: https://white-cliff-0bca3ed00.1.azurestaticapps.net/"}
+{"timestamp": "2026-06-18T06:09:30.374363+00:00", "event_type": "info", "message": "Extracted 21 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/"}
+{"timestamp": "2026-06-18T06:09:33.826694+00:00", "event_type": "info", "message": "Extracted 34 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/privacy"}
+{"timestamp": "2026-06-18T06:09:37.163253+00:00", "event_type": "info", "message": "Extracted 51 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/terms"}
+{"timestamp": "2026-06-18T06:09:40.839009+00:00", "event_type": "info", "message": "Extracted 9 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/login"}
+{"timestamp": "2026-06-18T06:09:41.029699+00:00", "event_type": "info", "message": "Extraction complete. 115 components across 4 pages. Output: C:\\documentation-compliance-agent\\data\\ui_states\\extracted_ui_state.jsonl"}
+{"timestamp": "2026-06-18T06:11:05.642733+00:00", "event_type": "info", "message": "Starting login flow"}
+{"timestamp": "2026-06-18T06:11:12.792380+00:00", "event_type": "debug", "message": "Email field value after typing: 'admin@gmail.com' (expected 'admin@gmail.com')"}
+{"timestamp": "2026-06-18T06:11:14.668405+00:00", "event_type": "info", "message": "Post-login URL: https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/my-applications"}
+{"timestamp": "2026-06-18T06:11:14.669230+00:00", "event_type": "info", "message": "Login flow completed. Current URL: https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/my-applications"}
+{"timestamp": "2026-06-18T06:11:16.796792+00:00", "event_type": "info", "message": "Extracted 42 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/my-applications"}
+{"timestamp": "2026-06-18T06:11:20.716562+00:00", "event_type": "info", "message": "Extracted 64 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/settings"}
+{"timestamp": "2026-06-18T06:11:24.326161+00:00", "event_type": "info", "message": "Extracted 40 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/announcements"}
+{"timestamp": "2026-06-18T06:11:27.376782+00:00", "event_type": "info", "message": "Extracted 32 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/action-items"}
+{"timestamp": "2026-06-18T06:11:33.081472+00:00", "event_type": "info", "message": "Extracted 100 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/tickets"}
+{"timestamp": "2026-06-18T06:11:41.705611+00:00", "event_type": "info", "message": "Extracted 21 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/"}
+{"timestamp": "2026-06-18T06:11:44.792194+00:00", "event_type": "info", "message": "Extracted 51 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/terms"}
+{"timestamp": "2026-06-18T06:11:48.565716+00:00", "event_type": "info", "message": "Extracted 40 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/faqs"}
+{"timestamp": "2026-06-18T06:12:03.589172+00:00", "event_type": "warning", "message": "networkidle timed out for https://white-cliff-0bca3ed00.1.azurestaticapps.net/login; falling back to domcontentloaded."}
+{"timestamp": "2026-06-18T06:12:06.575516+00:00", "event_type": "info", "message": "Extracted 46 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/login"}
+{"timestamp": "2026-06-18T06:12:12.512772+00:00", "event_type": "info", "message": "Extracted 40 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/user-management"}
+{"timestamp": "2026-06-18T06:12:17.195435+00:00", "event_type": "info", "message": "Extracted 37 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/contact"}
+{"timestamp": "2026-06-18T06:12:29.067802+00:00", "event_type": "info", "message": "Extracted 38 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/facilities"}
+{"timestamp": "2026-06-18T06:12:31.979644+00:00", "event_type": "info", "message": "Extracted 34 components from https://white-cliff-0bca3ed00.1.azurestaticapps.net/privacy"}
+{"timestamp": "2026-06-18T06:12:32.139979+00:00", "event_type": "info", "message": "Extraction complete. 585 components across 13 pages. Output: C:\\documentation-compliance-agent\\data\\ui_states\\extracted_ui_state.jsonl"}

@@ -1,0 +1,286 @@
+{
+  "source_pdf": "1_ingest/WaiverPro_User_Guidelines_MOCK.pdf",
+  "sections": [
+    {
+      "section_number": "1",
+      "title": "Overview",
+      "reference": "Section 1: Overview",
+      "raw_text": "WaiverPro is a Healthcare Waiver Management platform that streamlines regulatory waiver processes,\nfrom submission through approval. Facilities use WaiverPro to apply for and track three categories of\nwaivers: Patient Needs Waiver (PNW), Program Flexibility (PF), and Workforce Shortage Waiver\n(WSW)."
+    },
+    {
+      "section_number": "2",
+      "title": "Accessing WaiverPro",
+      "reference": "Section 2: Accessing WaiverPro",
+      "raw_text": "Users access their WaiverPro account by navigating to the login page and entering their registered\nemail address and password. The login button should be labeled 'Sign In' to align with platform-wide\nterminology used across all WaiverPro touchpoints.\nThe email field placeholder should display the example format 'name@company.com' to reinforce that\nbusiness email addresses are required for registration."
+    },
+    {
+      "section_number": "3",
+      "title": "Patient Needs Waiver (PNW) Request",
+      "reference": "Section 3: Patient Needs Waiver (PNW) Request",
+      "raw_text": "Facilities may apply when seeking a waiver of the 24-hour CNA requirement to meet individual patient\ncare plan modifications based on clinical needs. Applications require documented patient or family\nrequest for accommodation modification, along with clinical assessment supporting that the\nmodification must be care-specific. Interdisciplinary team agreement and approval is required prior to\nsubmission.\nProcessing Time: 10-20 business days. Waiver Period: 6-12 months."
+    },
+    {
+      "section_number": "4",
+      "title": "Program Flexibility (PF) Request",
+      "reference": "Section 4: Program Flexibility (PF) Request",
+      "raw_text": "Facilities seeking program flexibility from regulations must include justification for the program flexibility\nbeing sought, an adequate description of the alternative measures, and documentation supporting that\npatient care will not be compromised. Facilities may request program flexibility for a limited term with a\nstart and end date; applications submitted more than one year in advance will not be accepted.\nProcessing Time: Within 60 days. Waiver Period: 6-12 months."
+    },
+    {
+      "section_number": "5",
+      "title": "Workforce Shortage Waiver (WSW) Request",
+      "reference": "Section 5: Workforce Shortage Waiver (WSW) Request",
+      "raw_text": "Facilities seeking a waiver of the 3:1 direct care hour requirement due to a documented shortage of\navailable and appropriate health care professionals and direct care givers may apply. Facilities may\nonly submit one Patient Needs Waiver and one Workforce Shortage Waiver application in the same\nyear. Applications must be submitted within the annual application window of January 1 - April 30.\nOnly licensed freestanding SNFs (excluding district, state-owned hospitals and developmental centers)\nmay apply. Approved facilities must include an expiration date and specific terms; renewal may be\nrequired if conditions are not met."
+    },
+    {
+      "section_number": "6",
+      "title": "My Applications Dashboard",
+      "reference": "Section 6: My Applications Dashboard",
+      "raw_text": "Once logged in, users land on the 'My Applications' dashboard, which displays a list of all waiver\napplications submitted by the facility, along with their current status (e.g. Pending, Approved, Denied,\nExpired). Each application entry should display the waiver type, submission date, and a unique\napplication reference number."
+    },
+    {
+      "section_number": "7",
+      "title": "User Management",
+      "reference": "Section 7: User Management",
+      "raw_text": "Administrators can manage facility user accounts from the User Management page, including adding\nnew users, editing roles and permissions, and deactivating accounts that should no longer have\naccess. All role changes must be logged for audit purposes."
+    },
+    {
+      "section_number": "8",
+      "title": "Support and Contact Information",
+      "reference": "Section 8: Support and Contact Information",
+      "raw_text": "Users requiring assistance can reach the WaiverPro support team via the Contact page. The official\nsupport email listed should be support@waiverpro.com and the support phone line should be\navailable Monday through Friday, 9 AM to 5 PM."
+    },
+    {
+      "section_number": "9",
+      "title": "Privacy Policy and Terms of Service",
+      "reference": "Section 9: Privacy Policy and Terms of Service",
+      "raw_text": "WaiverPro's Privacy Policy and Terms of Service are accessible from the footer of every page,\nincluding the public landing page. These documents must be reviewed and accepted during account\nregistration."
+    }
+  ],
+  "rules": [
+    {
+      "rule_id": "R001",
+      "guideline_reference": "Section 2: Accessing WaiverPro",
+      "rule_text": "The login page should be accessible."
+    },
+    {
+      "rule_id": "R002",
+      "guideline_reference": "Section 2: Accessing WaiverPro",
+      "rule_text": "The login page should have a 'Sign In' button."
+    },
+    {
+      "rule_id": "R003",
+      "guideline_reference": "Section 2: Accessing WaiverPro",
+      "rule_text": "The email field should have a placeholder displaying 'name@company.com'."
+    },
+    {
+      "rule_id": "R004",
+      "guideline_reference": "Section 2: Accessing WaiverPro",
+      "rule_text": "The email address entered should be a business email address."
+    },
+    {
+      "rule_id": "R005",
+      "guideline_reference": "Section 2: Accessing WaiverPro",
+      "rule_text": "The password field should be present on the login page."
+    },
+    {
+      "rule_id": "R006",
+      "guideline_reference": "Section 3: Patient Needs Waiver (PNW) Request",
+      "rule_text": "Facilities must apply for a waiver of the 24-hour CNA requirement."
+    },
+    {
+      "rule_id": "R007",
+      "guideline_reference": "Section 3: Patient Needs Waiver (PNW) Request",
+      "rule_text": "Applications require a documented patient or family request for accommodation modification."
+    },
+    {
+      "rule_id": "R008",
+      "guideline_reference": "Section 3: Patient Needs Waiver (PNW) Request",
+      "rule_text": "Applications require a clinical assessment supporting care-specific modification."
+    },
+    {
+      "rule_id": "R009",
+      "guideline_reference": "Section 3: Patient Needs Waiver (PNW) Request",
+      "rule_text": "Interdisciplinary team agreement is required prior to submission."
+    },
+    {
+      "rule_id": "R010",
+      "guideline_reference": "Section 3: Patient Needs Waiver (PNW) Request",
+      "rule_text": "Interdisciplinary team approval is required prior to submission."
+    },
+    {
+      "rule_id": "R011",
+      "guideline_reference": "Section 3: Patient Needs Waiver (PNW) Request",
+      "rule_text": "Processing time for waiver applications is 10-20 business days."
+    },
+    {
+      "rule_id": "R012",
+      "guideline_reference": "Section 3: Patient Needs Waiver (PNW) Request",
+      "rule_text": "Waiver period is 6-12 months."
+    },
+    {
+      "rule_id": "R013",
+      "guideline_reference": "Section 4: Program Flexibility (PF) Request",
+      "rule_text": "Facilities must include justification for the program flexibility being sought."
+    },
+    {
+      "rule_id": "R014",
+      "guideline_reference": "Section 4: Program Flexibility (PF) Request",
+      "rule_text": "Facilities must provide an adequate description of the alternative measures."
+    },
+    {
+      "rule_id": "R015",
+      "guideline_reference": "Section 4: Program Flexibility (PF) Request",
+      "rule_text": "Facilities must document that patient care will not be compromised."
+    },
+    {
+      "rule_id": "R016",
+      "guideline_reference": "Section 4: Program Flexibility (PF) Request",
+      "rule_text": "Applications submitted more than one year in advance will not be accepted."
+    },
+    {
+      "rule_id": "R017",
+      "guideline_reference": "Section 4: Program Flexibility (PF) Request",
+      "rule_text": "Processing of program flexibility requests must be completed within 60 days."
+    },
+    {
+      "rule_id": "R018",
+      "guideline_reference": "Section 4: Program Flexibility (PF) Request",
+      "rule_text": "The waiver period for program flexibility must be between 6-12 months."
+    },
+    {
+      "rule_id": "R019",
+      "guideline_reference": "Section 5: Workforce Shortage Waiver (WSW) Request",
+      "rule_text": "Facilities must have a documented shortage of available and appropriate health care professionals and direct care givers."
+    },
+    {
+      "rule_id": "R020",
+      "guideline_reference": "Section 5: Workforce Shortage Waiver (WSW) Request",
+      "rule_text": "Facilities may only submit one Patient Needs Waiver and one Workforce Shortage Waiver application in the same year."
+    },
+    {
+      "rule_id": "R021",
+      "guideline_reference": "Section 5: Workforce Shortage Waiver (WSW) Request",
+      "rule_text": "Applications must be submitted within the annual application window of January 1 - April 30."
+    },
+    {
+      "rule_id": "R022",
+      "guideline_reference": "Section 5: Workforce Shortage Waiver (WSW) Request",
+      "rule_text": "Only licensed freestanding SNFs (excluding district, state-owned hospitals and developmental centers) may apply."
+    },
+    {
+      "rule_id": "R023",
+      "guideline_reference": "Section 5: Workforce Shortage Waiver (WSW) Request",
+      "rule_text": "Approved facilities must include an expiration date."
+    },
+    {
+      "rule_id": "R024",
+      "guideline_reference": "Section 5: Workforce Shortage Waiver (WSW) Request",
+      "rule_text": "Approved facilities must include specific terms."
+    },
+    {
+      "rule_id": "R025",
+      "guideline_reference": "Section 5: Workforce Shortage Waiver (WSW) Request",
+      "rule_text": "Approved facilities may require renewal if conditions are not met."
+    },
+    {
+      "rule_id": "R026",
+      "guideline_reference": "Section 6: My Applications Dashboard",
+      "rule_text": "The 'My Applications' dashboard is displayed after logging in."
+    },
+    {
+      "rule_id": "R027",
+      "guideline_reference": "Section 6: My Applications Dashboard",
+      "rule_text": "The dashboard displays a list of all waiver applications submitted by the facility."
+    },
+    {
+      "rule_id": "R028",
+      "guideline_reference": "Section 6: My Applications Dashboard",
+      "rule_text": "Each application entry displays the waiver type."
+    },
+    {
+      "rule_id": "R029",
+      "guideline_reference": "Section 6: My Applications Dashboard",
+      "rule_text": "Each application entry displays the submission date."
+    },
+    {
+      "rule_id": "R030",
+      "guideline_reference": "Section 6: My Applications Dashboard",
+      "rule_text": "Each application entry displays a unique application reference number."
+    },
+    {
+      "rule_id": "R031",
+      "guideline_reference": "Section 6: My Applications Dashboard",
+      "rule_text": "The dashboard displays the current status of each waiver application (e.g. Pending, Approved, Denied, Expired)."
+    },
+    {
+      "rule_id": "R032",
+      "guideline_reference": "Section 7: User Management",
+      "rule_text": "Administrators can manage facility user accounts from the User Management page."
+    },
+    {
+      "rule_id": "R033",
+      "guideline_reference": "Section 7: User Management",
+      "rule_text": "Administrators can add new users."
+    },
+    {
+      "rule_id": "R034",
+      "guideline_reference": "Section 7: User Management",
+      "rule_text": "Administrators can edit roles."
+    },
+    {
+      "rule_id": "R035",
+      "guideline_reference": "Section 7: User Management",
+      "rule_text": "Administrators can edit permissions."
+    },
+    {
+      "rule_id": "R036",
+      "guideline_reference": "Section 7: User Management",
+      "rule_text": "Administrators can deactivate accounts."
+    },
+    {
+      "rule_id": "R037",
+      "guideline_reference": "Section 7: User Management",
+      "rule_text": "All role changes must be logged."
+    },
+    {
+      "rule_id": "R038",
+      "guideline_reference": "Section 8: Support and Contact Information",
+      "rule_text": "The official support email is support@waiverpro.com."
+    },
+    {
+      "rule_id": "R039",
+      "guideline_reference": "Section 8: Support and Contact Information",
+      "rule_text": "The support phone line is available Monday through Friday."
+    },
+    {
+      "rule_id": "R040",
+      "guideline_reference": "Section 8: Support and Contact Information",
+      "rule_text": "The support phone line is available from 9 AM to 5 PM."
+    },
+    {
+      "rule_id": "R041",
+      "guideline_reference": "Section 9: Privacy Policy and Terms of Service",
+      "rule_text": "WaiverPro's Privacy Policy is accessible from the footer of every page."
+    },
+    {
+      "rule_id": "R042",
+      "guideline_reference": "Section 9: Privacy Policy and Terms of Service",
+      "rule_text": "WaiverPro's Terms of Service is accessible from the footer of every page."
+    },
+    {
+      "rule_id": "R043",
+      "guideline_reference": "Section 9: Privacy Policy and Terms of Service",
+      "rule_text": "The Privacy Policy and Terms of Service are accessible from the public landing page."
+    },
+    {
+      "rule_id": "R044",
+      "guideline_reference": "Section 9: Privacy Policy and Terms of Service",
+      "rule_text": "The Privacy Policy and Terms of Service must be reviewed during account registration."
+    },
+    {
+      "rule_id": "R045",
+      "guideline_reference": "Section 9: Privacy Policy and Terms of Service",
+      "rule_text": "The Privacy Policy and Terms of Service must be accepted during account registration."
+    }
+  ]
+}
