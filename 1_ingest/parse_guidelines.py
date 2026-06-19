@@ -77,10 +77,10 @@ def extract_atomic_rules_with_llm(sections):
 
     for section in sections:
         prompt = f"""Extract checkable compliance rules from this guidelines
-section. Return a JSON array of atomic, individually checkable statements.
-Each statement should describe ONE specific, verifiable expectation. Skip
-purely descriptive sentences. Return ONLY a valid JSON array of strings,
-no markdown, no explanation.
+                        section. Return a JSON array of atomic, individually checkable statements.
+                        Each statement should describe ONE specific, verifiable expectation. Skip
+                        purely descriptive sentences. Return ONLY a valid JSON array of strings,
+                        no markdown, no explanation.
 
 Section: {section['title']}
 Text:
